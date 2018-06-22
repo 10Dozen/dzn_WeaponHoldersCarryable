@@ -1,4 +1,4 @@
-# dzn_WeaponHoldersCarryable
+# dzn Weapon Holders Carryable
 ACE 3 extension to carry/drag weapon holders
 <br />Adds ability to carry/drag weapon holders (bunch of items dropped to the ground) via ACE3 interaction menu.
 
