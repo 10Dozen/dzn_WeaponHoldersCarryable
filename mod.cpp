@@ -1,0 +1,10 @@
+name = "dzn Weapon Holders Carryable";
+actionName = "WEBSITE";
+action = "";
+tooltip = "dzn WHC";
+overview = "Extension for ACE3 Dragging addon";
+author = "10Dozen";
+description = "dzn WHC - Version 1";
+logo = "mod.paa";
+logoOver = "mod.paa";
+overviewPicture = "mod.paa";

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="dzn_WHC">
+	<Package name="dzn_WHC">
+ 		<Container name="Menus">			
+			<Key ID="STR_WHC_Enabled">
+			    <Original>Enabled</Original>
+			    <Russian>Включено</Russian>
+			</Key>
+			<Key ID="STR_WHC_Enabled_desc">
+			    <Original>Mission restart is required.</Original>
+			    <Russian>Требуется перезапуск миссии.</Russian>
+			</Key>
+			
+			<Key ID="STR_WHC_CheckTimeoutSetting">
+			    <Original>Check timeout, sec</Original>
+			    <Russian>Таймаут на проверку, сек</Russian>
+			</Key>
+			<Key ID="STR_WHC_CheckTimeoutSetting_desc">
+			    <Original>Timeout between revealing weapon holders near the player.</Original>
+			    <Russian>Таймаут между проверкой и обработкой 'weapon holder'ов.</Russian>
+			</Key>
+
+			<Key ID="STR_WHC_CheckRadiusSetting">
+			    <Original>Check radius, m</Original>
+			    <Russian>Радиус для проверки, м</Russian>
+			</Key>
+			<Key ID="STR_WHC_CheckRadiusSetting_desc">
+			    <Original>Radius to check for weapon holders. Big values may affect performance.</Original>
+			    <Russian>Радиус для проверки 'weapon holder'ов. Большие значения могут влиять на производительность.</Russian>
+			</Key>
+
+
+			<Key ID="STR_WHC_AllowedNumberOfItemsSetting">
+			    <Original>Max. items to carry</Original>
+			    <Russian>Макс. число предметов</Russian>
+			</Key>
+			<Key ID="STR_WHC_AllowedNumberOfItemsSetting_desc">
+			    <Original>Limit of items in weapon holder to allow carrying/dragging. Average man has 2 hands to keep at least 2 items, but don't be too transhuman and use backpacks to carry all extra stuff.</Original>
+			    <Russian>Максимальное число предметов в 'weapon holder'е которое можно нести/тащить. Обычный человек имеет 2 руки, чтобы держать как минимум 2 предмета. Но не увлекайтесь трансгуманизмом и воспользуйтесь сумками, чтобы унести всю добычу.</Russian>
+			</Key>
+
+			<Key ID="STR_WHC_ClasslistSetting">
+			    <Original>Weapon Holders classlist</Original>
+			    <Russian>Класыы 'Weapon Holder'ов</Russian>
+			</Key>
+			<Key ID="STR_WHC_ClasslistSetting_desc">
+			    <Original>Classlist to apply mod features. In format: Class1, Class2</Original>
+			    <Russian>Список классов к которым должен быть применен мод. В формате: Class1, Class2</Russian>
+			</Key>			
+		</Container>
+	</Package>
+</Project>
